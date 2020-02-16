@@ -1,0 +1,8 @@
+---
+dependencies:
+  - src: "https://git@github.com/illallangi-alfa/install-gnupg2.git"
+    scm: git
+    version: master
+  - src: "https://git@github.com/illallangi-alfa/remove-gnupg2.git"
+    scm: git
+    version: master
